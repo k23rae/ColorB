@@ -1,16 +1,19 @@
 {
-    "manifest_version": 2,
-  
-    "name": "GTmetrix Analyzer Plugin",
-    "description": "This extension will analyze a page using GTmetrix",
-    "version": "1.0",
-  
-    "browser_action": {
-     "default_icon": "images.png",
-     "default_popup": "popup.html"
-    },
-    "permissions": [
-     "activeTab"
-     ]
-  }
-  
+"manifest_version": 2,
+
+"name": "GTmetrix Speed Tester",
+"description": "This extension will analyse a page using GTmetrix.",
+"version": "1.0",
+
+"icons": {
+
+},
+
+"browser_action": {
+"default_icon": "images.png",
+"default_popup": "popup.html"
+},
+"permissions": [
+"activeTab"
+]
+}
