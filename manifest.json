@@ -1,9 +1,9 @@
 {
-    "manifest_version": 2,
   
-    "name": "GTmetrix Analyzer Plugin",
-    "description": "This extension will analyze a page using GTmetrix",
-    "version": "1.0",
+    "name": "ColorB",
+    "description": "This chrome extension will allow color blind people to identify colors on any webpage.",
+    "version": "0.1",
+    "manifest_version": 2,
   
     "browser_action": {
      "default_icon": "images.png",
